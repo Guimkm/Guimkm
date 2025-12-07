@@ -1,7 +1,7 @@
 ### Hi! My name is Guilherme Araujo 👋
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Araujo&theme=tokyonight&cache_seconds=7200" height="160" alt="streak graphic" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guimkm&theme=dracula&cache_seconds=7200" height="160" alt="streak graphic" />
 </div>
 
 
