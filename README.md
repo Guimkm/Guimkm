@@ -1,6 +1,8 @@
 <div align="center">
   
   # Hi! My name is Guilherme Araujo 👋 <br/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=violet-punch&hide_border=true&border_radius=10&type=png)](https://git.io/streak-stats)
   
