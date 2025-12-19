@@ -2,8 +2,8 @@
   
   # Hi! My name is Guilherme Araujo 👋 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=violet-punch&hide_border=true&border_radius=10&type=png)](https://git.io/streak-stats)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guimkm&show_icons=true&theme=dracula) </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&layout=compact)
   ## I'm learning 📚<br/>
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
