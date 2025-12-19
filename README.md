@@ -2,8 +2,9 @@
   
   # Hi! My name is Guilherme Araujo 👋 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guimkm&show_icons=true&theme=dracula) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&layout=compact)
+![Guimkm's Stats](https://github-readme-stats.vercel.app/api?username=Guimkm&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Guimkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
   ## I'm learning 📚<br/>
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
