@@ -8,6 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utcOffset=8)
 | :-: | :-: |
+<br/>
 
   ## I'm learning 📚<br/>
   
