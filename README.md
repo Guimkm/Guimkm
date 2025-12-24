@@ -29,3 +29,5 @@
 
 <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403">
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=footer&reversal=false" width=100%>
