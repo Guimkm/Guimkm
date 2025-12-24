@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
+  
+  
   <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=9745F5&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Guilherme+Araujo!;And+I'm+a+beginner+at+programming." alt="Typing SVG"/>
 
