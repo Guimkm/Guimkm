@@ -18,7 +18,7 @@
 ## Talk to me 🤙<br/>
 </div>
 
-<a src="https://github.com/Guimkm" target="_blank">
+<a href="https://github.com/Guimkm" target="_blank">
   
 ![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
