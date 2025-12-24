@@ -13,12 +13,6 @@
   ## I'm learning 📚<br/>
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
-
-  ## IDEs I'm currently using 🧰<br/> 
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode" title="Figma, Netbeans e VScode"/>
-  </a><br/><br/>
   
   ## Talk to me 🤙<br/>
 
