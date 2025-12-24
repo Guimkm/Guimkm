@@ -8,6 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utcOffset=8)
 | :-: | :-: |
+<img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403">
 
   ## I'm learning 📚<br/>
   
