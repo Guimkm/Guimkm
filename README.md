@@ -3,17 +3,12 @@
 
 #
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guimkm&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guimkm&theme=midnight_purple)
+| :-: | :-: |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guimkm&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guimkm&theme=midnight_purple)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utcOffset=8)
-    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
 
   ## I'm learning 📚<br/>
   
