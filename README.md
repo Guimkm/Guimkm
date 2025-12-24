@@ -1,5 +1,5 @@
   <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=F5000F&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Guilherme+Araujo!;And+I'm+a+beginner+at+programming." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=9745F5&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Guilherme+Araujo!;And+I'm+a+beginner+at+programming." alt="Typing SVG"/>
 
 #
 
@@ -17,11 +17,11 @@
 ## Talk to me 🤙<br/>
 
 
-<a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
+<a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-9745F5?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
 <a href="mailto:guilherme.silva2878@etec.sp.gov.br">
-![Static Badge](https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
+![Static Badge](https://img.shields.io/badge/Outlook-9745F5?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
 <a href="https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br">
-![Static Badge](https://img.shields.io/badge/Teams-000000?style=for-the-badge&logo=Microsoft-Teams&logoColor=FFFFFF)</a>
+![Static Badge](https://img.shields.io/badge/Teams-9745F5?style=for-the-badge&logo=Microsoft-Teams&logoColor=FFFFFF)</a>
 <a href="https://github.com/Guimkm">
-![Static Badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=FFFFFF)</a>
+![Static Badge](https://img.shields.io/badge/Github-9745F5?style=for-the-badge&logo=Github&logoColor=FFFFFF)</a>
 </div>
