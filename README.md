@@ -17,10 +17,10 @@
   
 ## Talk to me 🤙<br/>
 
-<a href="mailto:guilherme.silva2878@etec.sp.gov.br">![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="">
+<a href="mailto:guilhermearaujocarneiro26@gmail.com">![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:guilherme.silva2878@etec.sp.gov.br">
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-<a href="">
+<a href="https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br">
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)</a>
 <a href="https://github.com/Guimkm">
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
