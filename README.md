@@ -7,8 +7,10 @@
 | :-: | :-: |
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utcOffset=8)
+| :-: | :-: |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple)|
+| :-: |
 
   ## I'm learning 📚<br/>
   
