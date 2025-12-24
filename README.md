@@ -1,6 +1,7 @@
   <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C4000F&center=true&vCenter=true&width=600&lines=Hello+my+name+is+Guilherme+Araujo.;And+I'm+a+beginner+at+programming." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=F5000F&center=true&vCenter=true&width=600&lines=Hello+my+name+is+Guilherme+Araujo.;And+I'm+a+beginner+at+programming." alt="Typing SVG"/>
 
+#
 
 ![Guimkm's Stats](https://github-readme-stats.vercel.app/api?username=Guimkm&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
