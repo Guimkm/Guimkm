@@ -13,8 +13,7 @@
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guimkm&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
 
   ## I'm learning 📚<br/>
   
