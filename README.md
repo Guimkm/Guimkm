@@ -13,8 +13,14 @@
   ## I'm learning 📚<br/>
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
+
+  ## IDEs I'm currently using 🧰<br/> 
   
-## Talk to me 🤙<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode" title="Figma, Netbeans e VScode"/>
+  </a><br/><br/>
+  
+  ## Talk to me 🤙<br/>
 
 <a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-6302D1?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
 <a href="mailto:guilherme.silva2878@etec.sp.gov.br">
