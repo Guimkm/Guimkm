@@ -3,16 +3,19 @@
 
 #
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guimkm&theme=midnight_purple)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guimkm&theme=midnight_purple)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guimkm&theme=midnight_purple)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guimkm&theme=midnight_purple)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utcOffset=8)
     
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guimkm&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
+
   ## I'm learning 📚<br/>
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
