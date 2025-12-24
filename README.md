@@ -9,9 +9,9 @@
   <div align="center">
     
   ## I'm learning 📚<br/>
-  </div>
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
+</div>
 
 <div align="center">
 ## Talk to me 🤙<br/>
