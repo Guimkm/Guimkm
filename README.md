@@ -5,6 +5,8 @@
 
 #
 
+<!--[Guimkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guimkm&theme=midnight_purple)
 | :-: | :-: | :-: |
 
