@@ -1,0 +1,159 @@
+    @charset "UTF-8";
+
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); /* Importa a fonte Roboto do Google Fonts */
+
+    @font-face { /* Definição da fonte personalizada */
+        font-family: Fote_da_logo; /* Nome da fonte personalizada */
+        src: url(../_Fontes/Roboto-SemiBold.ttf); /* Coloque o caminho da fonte personalizada aqui */
+    }
+
+    body{
+        font-family: Arial;
+
+/*      background-image: url("");
+        background: hsla(hue, saturation, lightness, alpha);*/
+        background: rgba(158, 158, 158, 0.2); /*   Define a cor de fundo com transparência
+                                         |_____________/  */
+        color: black;
+    }
+
+    div#interface {
+        margin: -20px auto 0 auto; /* Margin serve para alterar a posiçãode algo da tela, e ele serve como substituto pro aling center tbm */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+        padding: 10px 10px 10px 10px; /* Tbm pode ser escrito como padding: 10px; pq ele considera em todos os lados caso vc escreva uma vez */
+    }
+
+    p{
+        text-indent: 20px;
+        text-align: justify;
+    }
+
+    header#cabeçalho img#icone {
+        position: absolute;
+        right: 10px;
+        top: 55px;
+    }
+
+    header#cabeçalho {
+        border-bottom: 1px #525252 solid;
+        height: 170px;
+        background: url("../_imagens/Steam\ machine\ logo\ ajustada\ e\ sem\ fundo.png") no-repeat -25px 30px;
+    }
+
+    header#cabeçalho h1 {
+        
+        font-family: Fonte_da_logo, sans-serif;   /* a foto será mudada para a fonte da logo */
+
+        font-size: 30pt;
+        color: #525252;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+        padding: 0px;
+        margin-bottom: 0px;
+    }
+    
+    header#cabeçalho h2 {
+
+        font-family: "Roboto", sans-serif; /* A fonte Roboto foi importada do Google Fonts */
+
+       color: #888888;
+       font-size: 15pt; 
+       padding: 0px;
+       margin-top: 0px;
+    }
+
+/*  Formatação de imagens com legendas  */
+
+    figure.foto-legenda{
+        position: relative;/* Define o contexto para o figcaption posicionado absolutamente. Resumindo, sua posição ficou relativa ao seu elemento pai (html) */
+        border: 8px solid white;
+        box-shadow: 1px 1px 4px black;
+        border-radius: 10px;
+    }
+
+    figure.foto-legenda img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+    }
+
+
+    figure.foto-legenda figcaption{
+        opacity: 0;
+        position: absolute; /* Posição absoluta em relação ao elemento pai (figure), caso venha a ser necessário para melhor entendimento acesse o video "Curso de HTML5 - 13 - Menu com CSS3 - by Gustavo Guanabara" no 7min 29s cconfia eu to falando sério e n marquei o tempo errado maluco*/
+        top: 0px;/* Distância do topo da figura */
+        background-color: rgba(0, 0, 0, 0.4);
+        color: white;
+        width: 100%;
+        height: 100%;
+        padding: 10px;/* Espaçamento interno */
+        box-sizing: border-box;/* Inclui o padding na largura e altura totais */
+        transition: opacity 1s;/* Transição suave para a opacidade */
+        border-radius: 10px;
+    }
+
+    figure.foto-legenda:hover figcaption{
+        opacity: 1;/* Torna o figcaption visível ao passar o mouse sobre a figura */
+    }
+
+    
+    /* Formatação do menu */
+
+    nav#menu {
+        display: block; /* Faz com que o nav se torne um bloco flutuante, separado do resto da página */
+    }
+
+nav#menu ul { /* Sempre que se usa o id, nós usamos a # e o nome do id logo em seguida, e n esqueça de marcar a lista q esta dentro da nav para poder modificar a lista aproveitando q ela está dentro do nav, q no qual foi aplicado o id */
+
+    list-style: none; /* Remove os marcadores padrão da lista, independentemente se for uma lista ul ou ol */
+    text-transform: uppercase; /* Deixa todas as letras maiúsculas. Tbm funciona em JAVA como ToUpperCase() */
+    position: absolute; /* Explicação disso na parte do css da foto-legenda do figcaption */
+    top: -20px;
+    right: 0; /* Podemos usar o left pra começar pela esquerda tbm */
+}
+
+nav#menu li { /* Formatação para cada item da lista */
+    display: inline-block; /* Faz com que os itens da lista fiquem na horizontal */
+    background-color: #9d9d9d; /* Cor de fundo cinza claro */
+    padding: 5px; /* Espaçamento interno aumentando a borda no processo */
+    margin: 2px; /* Espaçamento externo q separa uma caixa da outra */
+    transition: background-color 0.5s; /* As vezes navegadores mais antigos n suportam essa tag ent é só acessar o site prefixr.com e colar esse código lá */
+}
+
+nav#menu li:hover { /* Essa modificação em CSS só será mostrada quando o mouse estiver pareando em cima da caixa do li mais especificamente*/
+    background-color: #6d6d6d;
+}
+
+nav#menu h1 {
+    Display: none; /* Esconde o título do menu */
+}
+
+nav#menu a {
+    color: #000000;
+    text-decoration: none; /* Remove o sublinhado dos links */
+    transition: color 0.5s;
+}
+
+nav#menu a:hover {
+    color: #ffffff; 
+} 
+
+section#corpo {
+    padding: 10px;
+    display: block;/* Define o section como um bloco separado */
+    width: 695px;
+    float: left; /* Faz com que o section fique alinhado à esquerda, permitindo que outros elementos flutuem ao seu lado e é nescessario q o display faça ele ser um bloco separadopara q ele possa funcionar*/
+    border-right: 1px solid #6d6d6d;
+}
+
+aside#lateral {
+    padding: 10px;
+    display: block;
+    width: 570px;
+    float: right;
+}
+
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #6d6d6d;
+
+}
