@@ -18,6 +18,10 @@
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
   
+  ## I'm learning 📚<br/>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse&theme=dark" title="nodejs, figma, vscode e eclipse"/><br/><br/>
+  
   ## Talk to me 🤙<br/>
 
 <a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-6302D1?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
