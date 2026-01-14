@@ -18,7 +18,7 @@
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
   
-  ## other tools 🛠️<br/>
+  ## My tools 🛠️<br/>
 
   <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse&theme=dark" title="nodejs, figma, vscode, eclipse e netbeans"/><br/><br/>
   
