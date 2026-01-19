@@ -16,7 +16,7 @@
 
   ## I'm learning 📚<br/>
   
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java&theme=dark" title="Html, CSS, JavaScript, Dart e JAVA"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java,php&theme=dark" title="Html, CSS, JavaScript, Dart, JAVA e PHP"/><br/><br/>
   
   ## My tools 🛠️<br/>
 
