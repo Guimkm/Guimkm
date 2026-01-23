@@ -32,6 +32,8 @@
 <a href="https://github.com/Guimkm">
 ![Static Badge](https://img.shields.io/badge/Github-6302D1?style=for-the-badge&logo=Github&logoColor=FFFFFF)</a>
 
+[![Hits](https://hits.sh/github.com/GuimkmCard.svg?style=for-the-badge&label=Visits&color=6302D1&labelColor=6302D1)](https://hits.sh/github.com/GuimkmCard/)
+
 <img src="https://static.wikia.nocookie.net/soul-knight/images/6/67/The_Beheaded_0.gif/revision/latest?cb=20220805093403">
 </div>
 
