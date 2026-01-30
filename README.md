@@ -20,7 +20,7 @@
   
   ## My tools 🛠️<br/>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse&theme=dark" title="nodejs, figma, vscode, eclipse e netbeans"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git&theme=dark" title="nodejs, figma, vscode, eclipse e netbeans"/><br/><br/>
   
   ## Talk to me 🤙<br/>
 
