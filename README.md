@@ -5,7 +5,7 @@
 
 #
 
-<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>-->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)-->
 
