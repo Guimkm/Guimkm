@@ -25,7 +25,7 @@
   
   ## My tools 🛠️<br/>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git&theme=dark" title="nodejs, figma, vscode, eclipse e netbeans"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git,androidstudio&theme=dark" title="nodejs, figma, vscode, eclipse, netbeans e android studio"/><br/><br/>
   
   ## Talk to me 🤙<br/>
 
