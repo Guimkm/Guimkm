@@ -21,7 +21,7 @@
 
   ## I'm learning 📚<br/>
   
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java,php,markdown,mysql&theme=dark" title="Html, CSS, Javascript, Dart, JAVA, PHP e Markdown, MySQL"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java,php,markdown,mysql,cpp&theme=dark" title="Html, CSS, Javascript, Dart, JAVA, PHP e Markdown, MySQL, C++"/><br/><br/>
   
   ## My tools 🛠️<br/>
 
