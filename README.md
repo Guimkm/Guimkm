@@ -5,9 +5,9 @@
 
 #
 
-<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&layout=compact)-->
 
-<!--[Guimkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
+<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />-->
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 | :-: | -->
