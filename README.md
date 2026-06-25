@@ -33,12 +33,12 @@
 
 <a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-6302D1?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
 <a href="mailto:guilherme.silva2878@etec.sp.gov.br">
-![Static Badge](https://img.shields.io/badge/Outlook-6302D1?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
+![E-mail](https://img.shields.io/badge/Outlook-6302D1?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
 <a href="https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br">
-![Static Badge](https://img.shields.io/badge/Teams-6302D1?style=for-the-badge&logo=Microsoft-Teams&logoColor=FFFFFF)</a>
-[![Static Badge](https://img.shields.io/badge/LinkedIn-6302D1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/guilherme-araujo-carneiro-da-silva/)
+[![Teams](https://img.shields.io/badge/Teams-6302D1?style=for-the-badge&logo=Microsoft-Teams&logoColor=FFFFFF)](https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-6302D1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/guilherme-araujo-carneiro-da-silva/)
 <a href="https://github.com/Guimkm">
-![Static Badge](https://img.shields.io/badge/Github-6302D1?style=for-the-badge&logo=Github&logoColor=FFFFFF)</a>
+![Github](https://img.shields.io/badge/Github-6302D1?style=for-the-badge&logo=Github&logoColor=FFFFFF)</a>
 
 [![Hits](https://hits.sh/github.com/GuimkmCard.svg?style=for-the-badge&label=Visits&color=6302D1&labelColor=6302D1)](https://hits.sh/github.com/GuimkmCard/)
 
