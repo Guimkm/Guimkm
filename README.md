@@ -36,6 +36,8 @@
 ![Static Badge](https://img.shields.io/badge/Outlook-6302D1?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
 <a href="https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br">
 ![Static Badge](https://img.shields.io/badge/Teams-6302D1?style=for-the-badge&logo=Microsoft-Teams&logoColor=FFFFFF)</a>
+<a href="www.linkedin.com/in/guilherme-araujo-carneiro-da-silva">
+![Static Badge](https://img.shields.io/badge/LinkedIn-6302D1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)</a>
 <a href="https://github.com/Guimkm">
 ![Static Badge](https://img.shields.io/badge/Github-6302D1?style=for-the-badge&logo=Github&logoColor=FFFFFF)</a>
 
