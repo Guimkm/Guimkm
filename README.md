@@ -5,6 +5,8 @@
 
 #
 
+<!--![Classificação da conta](https://github-readme-stats.vercel.app/api?username=Guimkm&show_icons=true&theme=radical)-->
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&layout=compact)-->
 
 <!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />-->
