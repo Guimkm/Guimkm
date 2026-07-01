@@ -23,11 +23,11 @@
 
   ## I'm learning 📚<br/>
   
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,mysql,kotlin,linux&theme=dark" title="Html, CSS, Javascript, Dart, JAVA, PHP e Markdown, MySQL, C++, Kotlin, sqlite e linux"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,mysql,kotlin,linux&theme=dark" title="Html, CSS, Javascript, JAVA, PHP, MySQL, Kotlin e linux"/><br/><br/>
   
   ## My tools 🛠️<br/>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git,androidstudio,idea,arduino&theme=dark" title="nodejs, figma, vscode, eclipse, GIT, netbeans android studio, InteliJ e arduino"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,androidstudio,idea,arduino&theme=dark" title="nodejs, figma, vscode, netbeans, android studio, InteliJ e arduino"/><br/><br/>
   
   ## Talk to me 🤙<br/>
 
