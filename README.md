@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Guilherme+Araujo!;And+I'm+a+beginner+at+programming." alt="Typing SVG"/>
-  
+
 #
 
 <!--![Classificação da conta](https://github-readme-stats.vercel.app/api?username=Guimkm&show_icons=true&theme=radical)-->
