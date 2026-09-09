@@ -9,7 +9,7 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&layout=compact)-->
 
-<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />-->
+<!-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />-->
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 | :-: | -->
